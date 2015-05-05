@@ -1,0 +1,15 @@
+*.class
+/target/*
+*~
+**/.idea/
+#*
+**/.classpath
+**/.settings/*
+**/.project
+*.log
+**/target/
+
+#java
+*.iml
+/target/
+logs/
